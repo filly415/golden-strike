@@ -1,4 +1,6 @@
-                                             Passionate and Talented Senior Full Stack Developer       
+                                             
+                                             Passionate and Talented Senior Full Stack Developer     
+                                             
 
 - 👋 Hi, There
 - 👀 I have been working as a Full Stack Developer over 7 years
