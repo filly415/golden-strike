@@ -1,4 +1,6 @@
-- 👋 Hi, This is a Passionate and Talented Senior Full Stack Developer
+                                                        Passionate and Talented Senior Full Stack Developer       
+
+- 👋 Hi, There
 - 👀 I have been working as a Full Stack Developer over 7 years
 - 🌱 MERN stack, MEVN stack and mobile app development with react native and ionic framework wonderfully happen to be my forte.
 - 🌱 I love your mission of achieving sustainability, it’s an important aspect of my life as well. I also love your branding – your tagline made me smile!
