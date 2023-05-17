@@ -1,7 +1,7 @@
                                              
-                                            <p align="center">
+   <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Senior%20full%20stack%20developer;5+%2B%20years%20of%20experience;Being%20passionate%20and%20creative&center=true&width=380&height=45"></a>
-</p>    
+</p>   
                                              
 
 - 👋 Hi, There
