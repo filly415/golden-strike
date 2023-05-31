@@ -5,7 +5,7 @@
                                              
 
 - 👋 Hi, There
-- 👀 I have been working as a Full Stack Developer over 7 years
+- 👀 I have been working as a Full Stack Developer with over 7 years of experience.
 - 🌱 MERN stack, MEVN stack and mobile app development with react native and ionic framework wonderfully happen to be my forte.
 - 🌱 I love your mission of achieving sustainability, it’s an important aspect of my life as well. I also love your branding – your tagline made me smile!
 - 🌱 I’d love to hear more about yourself and would like work with you for a long term.
