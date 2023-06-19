@@ -12,7 +12,7 @@
 - 💞️ I’m looking to collaborate on the clients who want to realize their ideas with technologies.
 - 📫 How to reach me .
       This is my Skype Name: live:.cid.94c4ab769d25292.
-      Discord: forevergowithyou#6980
+      Discord: 
       
       
       
